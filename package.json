@@ -3,6 +3,10 @@
   "version": "1.0.9",
   "description": "A set of ready-made solutions to common problems encountered during Forta bot development.",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/kovart/forta-helpers",
+    "type": "git"
+  },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
